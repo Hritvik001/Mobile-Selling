@@ -64,3 +64,14 @@ button{
     color: red;
     margin-bottom: 0%;
 }
+.home{
+    width: 400px;
+    padding-left: 80px;
+    display: flex;
+    margin: auto;
+    align-items: center;
+    align-content: center;
+    background-color: rgb(22, 21, 21);
+    border-radius: 15px;
+    box-shadow: 0 0 15px rgb(80, 79, 79);
+}
